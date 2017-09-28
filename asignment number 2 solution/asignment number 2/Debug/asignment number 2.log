@@ -1,0 +1,6 @@
+﻿  Source.cpp
+\\shr-student-p01\high schools\allen high school\2020\263209\documents\coding projects\asignment number 2 solution\asignment number 2\source.cpp(49): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+\\shr-student-p01\high schools\allen high school\2020\263209\documents\coding projects\asignment number 2 solution\asignment number 2\source.cpp(53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+\\shr-student-p01\high schools\allen high school\2020\263209\documents\coding projects\asignment number 2 solution\asignment number 2\source.cpp(37): warning C4101: 'frisk': unreferenced local variable
+  asignment number 2.vcxproj -> \\SHR-Student-P01\High Schools\Allen High School\2020\263209\Documents\coding projects\asignment number 2 solution\Debug\asignment number 2.exe
+  asignment number 2.vcxproj -> \\SHR-Student-P01\High Schools\Allen High School\2020\263209\Documents\coding projects\asignment number 2 solution\Debug\asignment number 2.pdb (Partial PDB)
